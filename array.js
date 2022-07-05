@@ -1,4 +1,4 @@
-export default array = [
+export const array = [
   "Aardvark",
   "Albatross",
   "Alligator",
